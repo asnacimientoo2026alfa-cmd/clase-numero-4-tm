@@ -1,4 +1,4 @@
-# clase-numero-4-tm
+# clase-numero-4-tm-prece
 ##  descripccion del cuaderno
 MATERIA: PSICOLOGÍA Y CULTURA DEL SUJETO
 TEMA GENERAL: ADOLESCENCIA
